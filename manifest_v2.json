@@ -3,7 +3,7 @@
     "id": "com.netease.vela",
     "restype": "quick_app",
     "name": "可搜网易云",
-    "description": "原版的网易云添加了搜索功能。",
+    "description": "原版的网易云添加了搜索功能。\n软件免费，如果喜欢的话，欢迎大家来我的 GitHub 给我点一个 Star，这对我的工作将会有非常大的帮助，谢谢。如果有任何问题，请给我提 Issue。",
     "preview": [
       "media/2-主页菜单-全部歌单.png",
       "media/3-搜索-空态与键盘.png",
@@ -18,22 +18,28 @@
       }
     ]
   },
-  "links": [],
+  "links": [
+    {
+      "title": "Github",
+      "url": "https://github.com/Cookie-Zalea/NetEase-Cloud-Music-Search",
+      "icon": "GithubLogo"
+    }
+  ],
   "downloads": {
     "xmrw5xring": {
-      "version": "1.0.52",
-      "file_name": "downloads/com.netease.vela.release.1.0.52.rpk",
-      "versionCode": 52
+      "version": "1.0.53",
+      "file_name": "downloads/com.netease.vela.release.1.0.53.rpk",
+      "versionCode": 53
     },
     "xmrw5": {
-      "version": "1.0.52",
-      "file_name": "downloads/com.netease.vela.release.1.0.52.rpk",
-      "versionCode": 52
+      "version": "1.0.53",
+      "file_name": "downloads/com.netease.vela.release.1.0.53.rpk",
+      "versionCode": 53
     },
     "xmrw6": {
-      "version": "1.0.52",
-      "file_name": "downloads/com.netease.vela.release.1.0.52.rpk",
-      "versionCode": 52
+      "version": "1.0.53",
+      "file_name": "downloads/com.netease.vela.release.1.0.53.rpk",
+      "versionCode": 53
     }
   },
   "ext": {}
