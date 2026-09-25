@@ -3,7 +3,7 @@
     "id": "com.netease.vela",
     "restype": "quick_app",
     "name": "可搜网易云",
-    "description": "会员版的网易云添加了搜索功能。",
+    "description": "原版的网易云添加了搜索功能。",
     "preview": [
       "media/2-主页菜单-全部歌单.png",
       "media/3-搜索-空态与键盘.png",
