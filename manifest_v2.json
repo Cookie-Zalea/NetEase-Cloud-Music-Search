@@ -27,38 +27,20 @@
   ],
   "downloads": {
     "xmrw5xring": {
-      "version": "1.0.57",
-      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
-      "versionCode": 57
+      "version": "1.0.58",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.58.rpk",
+      "versionCode": 58
     },
     "xmrw5": {
-      "version": "1.0.57",
-      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
-      "versionCode": 57
+      "version": "1.0.58",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.58.rpk",
+      "versionCode": 58
     },
     "xmrw6": {
-      "version": "1.0.57",
-      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
-      "versionCode": 57
+      "version": "1.0.58",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.58.rpk",
+      "versionCode": 58
     }
   },
-  "ext": {
-    "trialDownloads": {
-      "xmrw5xring": {
-        "version": "1.0.57",
-        "file_name": "downloads/trial/com.search.1.0.57.rpk",
-        "versionCode": 57
-      },
-      "xmrw5": {
-        "version": "1.0.57",
-        "file_name": "downloads/trial/com.search.1.0.57.rpk",
-        "versionCode": 57
-      },
-      "xmrw6": {
-        "version": "1.0.57",
-        "file_name": "downloads/trial/com.search.1.0.57.rpk",
-        "versionCode": 57
-      }
-    }
-  }
+  "ext": {}
 }
