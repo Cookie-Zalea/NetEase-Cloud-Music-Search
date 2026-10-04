@@ -1,6 +1,6 @@
 {
   "item": {
-    "id": "com.zaleacookiesearch",
+    "id": "io.github.cookiezalea.velasearch",
     "restype": "quick_app",
     "name": "可搜网易云",
     "description": "原版的网易云添加了搜索功能。\n包名有变更，所以正式版下载之后，已经下载的歌曲会消失，并且需要重新登录。\n试用版没有更改包名，安装后会直接覆盖，可以自行选择\n软件免费，如果喜欢的话，欢迎大家来我的 GitHub 给我点一个 Star，这对我的工作将会有非常大的帮助，谢谢。如果有任何问题，请给我提 Issue。",
@@ -28,17 +28,17 @@
   "downloads": {
     "xmrw5xring": {
       "version": "1.0.57",
-      "file_name": "downloads/com.zaleacookiesearch.1.0.57.rpk",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
       "versionCode": 57
     },
     "xmrw5": {
       "version": "1.0.57",
-      "file_name": "downloads/com.zaleacookiesearch.1.0.57.rpk",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
       "versionCode": 57
     },
     "xmrw6": {
       "version": "1.0.57",
-      "file_name": "downloads/com.zaleacookiesearch.1.0.57.rpk",
+      "file_name": "downloads/io.github.cookiezalea.velasearch.1.0.57.rpk",
       "versionCode": 57
     }
   },
