@@ -42,5 +42,23 @@
       "versionCode": 58
     }
   },
-  "ext": {}
+  "ext": {
+    "trialDownloads": {
+      "xmrw5xring": {
+        "version": "1.0.58",
+        "file_name": "downloads/trial/com.search.1.0.58.rpk",
+        "versionCode": 58
+      },
+      "xmrw5": {
+        "version": "1.0.58",
+        "file_name": "downloads/trial/com.search.1.0.58.rpk",
+        "versionCode": 58
+      },
+      "xmrw6": {
+        "version": "1.0.58",
+        "file_name": "downloads/trial/com.search.1.0.58.rpk",
+        "versionCode": 58
+      }
+    }
+  }
 }
